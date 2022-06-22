@@ -1,1 +1,1 @@
-# multithreading-homework7_1
+# Разработка через тестирование
